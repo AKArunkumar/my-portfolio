@@ -1,2 +1,2 @@
-#Demo templeate for portfolio
+# Templeate for portfolio
 [Github page](https://akarunkumar.github.io/my-portfolio/)
